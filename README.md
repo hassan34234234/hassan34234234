@@ -1,43 +1,28 @@
-# 👋 Hi, I'm [Hassan Arshad]!
+#<h1 align="center">Hi 👋, I'm Hassan Arshad</h1>
+<h3 align="center">A passionate Data Analyst from Pakistan</h3>
 
-Welcome to my GitHub profile! I am an aspiring Data Analyst with a passion for turning data into meaningful insights. Although I am at the beginning of my professional journey, I am eager to learn and grow in the field. Here you will find projects showcasing my skills in data analysis, visualization, and statistical modeling.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan34234234&label=Profile%20views&color=0e75b6&style=flat" alt="hassan34234234" /> </p>
 
-## 🛠️ Skills
+- 🌱 I’m currently learning **Excel, Python, SQL, Power BI**
 
-- **Excel**: Data cleaning, pivot tables, advanced formulas
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks
-- **Power BI**: Interactive dashboards, data visualization
-- **SQL**: Database management, querying, data manipulation
-- **Statistics**: Descriptive statistics, inferential statistics, hypothesis testing
+- 👯 I’m looking to collaborate on **Data Analyst Projects**
 
-## 📈 Projects
+- 📝 I regularly write articles on [https://medium.com/@hassanarshad94534](https://medium.com/@hassanarshad94534)
 
-### 1. [Project Name](link-to-project)
-A brief description of what the project is about. Highlight the tools and techniques you used.
+- 📫 How to reach me **hassanarshad94534@gmail.com**
 
-### 2. [Project Name](link-to-project)
-A brief description of what the project is about. Highlight the tools and techniques you used.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hassan arshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan arshad" height="30" width="40" /></a>
+<a href="https://medium.com/@hassan arshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hassan arshad" height="30" width="40" /></a>
+</p>
 
-### 3. [Project Name](link-to-project)
-A brief description of what the project is about. Highlight the tools and techniques you used.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-## 🌱 Currently Learning
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan34234234&show_icons=true&locale=en&layout=compact" alt="hassan34234234" /></p>
 
-- Machine Learning basics
-- Advanced data visualization techniques
-- Big data tools and technologies
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan34234234&show_icons=true&locale=en" alt="hassan34234234" /></p>
 
-## 🎯 Goals
-
-- To contribute to open-source data science projects
-- To build a strong portfolio showcasing my data analysis skills
-- To connect with other data enthusiasts and professionals
-
-## 📫 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Email](mailto:your-email@example.com)
-
-Thank you for visiting my profile! Feel free to reach out to me for collaboration or just to say hi.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan34234234&" alt="hassan34234234" /></p>
 
