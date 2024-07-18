@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Data Analyst Projects**
 
-- 📝 I regularly write articles on [https://medium.com/@hassanarshad94534](https://medium.com/@hassanarshad94534)
-
 - 📫 How to reach me **hassanarshad94534@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
