@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan34234234&label=Profile%20views&color=0e75b6&style=flat" alt="hassan34234234" /> </p>
 
-- 🌱 I’m currently learning **Excel, Python, SQL, Power BI**
+- 🌱 I’m currently learning **Excel, Python, SQL, AWS, Power BI**
 
 - 👯 I’m looking to collaborate on **Data Analyst Projects**
 
