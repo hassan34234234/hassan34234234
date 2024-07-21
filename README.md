@@ -1,5 +1,5 @@
 #<h1 align="center">Hi 👋, I'm Hassan Arshad</h1>
-<h3 align="center">Data Analyst | Turning Data into Insights</h3>
+<h3 align="center">Data Engineer | Turning raw data into strategic insights with robust engineering and scalable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan34234234&label=Profile%20views&color=0e75b6&style=flat" alt="hassan34234234" /> </p>
 
