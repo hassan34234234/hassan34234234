@@ -1,11 +1,11 @@
 #<h1 align="center">Hi 👋, I'm Hassan Arshad</h1>
-<h3 align="center">Data Analyst | Turning data into strategic insights.</h3>
+<h3 align="center">AI & Machine Learning Engineer | Solving problems with data and algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan34234234&label=Profile%20views&color=0e75b6&style=flat" alt="hassan34234234" /> </p>
 
 - 🌱 I’m currently learning **Excel, Python, SQL, AWS, Power BI**
 
-- 👯 I’m looking to collaborate on **Data Analyst Projects**
+- 👯 I’m looking to collaborate on **AI & Machine Learning Projects**
 
 - 📫 How to reach me **hassanarshad94534@gmail.com**
 
